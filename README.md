@@ -38,3 +38,4 @@ Dans un contexte où les cinémas doivent proposer une expérience de réservati
 ---
 
 ## 🧩 Diagramme de Classe
+![Diagramme de classe](images/javaWebDgClasse.png)
